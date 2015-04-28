@@ -1,0 +1,28 @@
+{
+  "name": "ngMD",
+  "version": "1.0.0",
+  "description": "basic Angularjs material design",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/codingpajamas/ngMD.git"
+  },
+  "keywords": [
+    "angularjs",
+    "material",
+    "design"
+  ],
+  "author": "codingpajamas",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/codingpajamas/ngMD/issues"
+  },
+  "homepage": "https://github.com/codingpajamas/ngMD",
+  "dependencies": {
+    "express": "^4.12.3",
+    "jade": "^1.9.2"
+  }
+}
